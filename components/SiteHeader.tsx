@@ -8,7 +8,7 @@ const SiteHeader = () => {
   return(
     <nav className={styles.nav}>
         <div className={styles.inline_logo}>
-          <Image src={Logo} width={35} height={35} alt="Logo"/>
+          <Image src={Logo} width={45} height={45} alt="Logo"/>
           <h1>Healthy</h1>
         </div>
         <Link href={'https://github.com/pmadinga/healthyapp'} className={styles.git}>
