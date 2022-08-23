@@ -1,0 +1,8 @@
+.nav{
+  display: flex;
+  justify-content: space-between;
+}
+.inline_logo{
+  background-color: red;
+  display: flex;
+}
